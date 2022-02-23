@@ -20,12 +20,12 @@ source-code: https://github.com/haiphan2471/demo
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Buildings of DePauw
+title: Buildings at DePauw
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a website shows the buildings on DePauw campus
+tagline: testing out a collection building tool for the Tenzer Center
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "DePauw buildings"
+description: "DeBuildings are our everyday asset. Here are my two cents on them!"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: haiphan2471
 
